@@ -24,7 +24,7 @@
             }
         } 
         
-        header('Location: https://127.0.0.1/bootstrap-php-project/index.php');
+        header('Location: index.php');
     }
 ?>
 
